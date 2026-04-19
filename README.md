@@ -27,10 +27,10 @@ The dashboard provides actionable insights into sales performance, customer beha
 
 ### 🔹 Key KPIs
 
-* Total Sales
-* Total Quantity Sold
-* Total Transactions
-* Average Sales Value
+* Total Sales: 769M
+* Total Quantity Sold: 19K
+* Total Transactions: 4K
+* Average Transaction Value: 40K
 
 ### 🔹 Visualizations
 
