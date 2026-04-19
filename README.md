@@ -34,12 +34,12 @@ The dashboard provides actionable insights into sales performance, customer beha
 
 ### 🔹 Visualizations
 
-* 📈 Monthly Sales Trend Analysis
-* 🗺️ Sales by City (Map Visualization)
-* 📱 Sales by Mobile Brand & Model
-* 💳 Transactions by Payment Method
-* ⭐ Customer Ratings Distribution
-* 📅 Sales Analysis by Day of Week
+* 📈 Sales Trends: Monthly analysis highlighting peak sales in July
+* 🏆 Top Brands & Products: Apple & Samsung leading (~160M+ revenue)
+* 🌍 Geographical Insights: City-wise sales distribution across India
+* 💳 Payment Analysis: UPI as the most used payment method (~26%)
+* ⭐ Customer Ratings: Majority ratings between 4–5 stars
+* 📅 Day-wise Trends: Highest sales on Monday/Friday
 
 ---
 
